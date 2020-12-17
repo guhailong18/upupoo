@@ -10,6 +10,60 @@
     
     
     <url>
+        <loc>https://guke.ml/artitalk/</loc>
+        <lastmod>2020-12-17T16:02:31.097Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://guke.ml/categories/</loc>
+        <lastmod>2020-12-17T16:01:38.397Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://guke.ml/Movie/</loc>
+        <lastmod>2020-12-17T15:59:34.282Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://guke.ml/link/</loc>
+        <lastmod>2020-12-17T15:58:29.616Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://guke.ml/tags/</loc>
+        <lastmod>2020-12-17T15:58:06.423Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://guke.ml/about/</loc>
+        <lastmod>2020-12-17T15:57:50.455Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://guke.ml/Gallery/</loc>
         <lastmod>2020-12-11T09:14:21.375Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,53 +73,8 @@
     
     
     <url>
-        <loc>https://guke.ml/tags/</loc>
-        <lastmod>2020-12-11T09:13:20.615Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://guke.ml/Music/</loc>
         <lastmod>2020-12-11T09:13:05.532Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://guke.ml/Movie/</loc>
-        <lastmod>2020-12-11T09:12:52.749Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://guke.ml/about/</loc>
-        <lastmod>2020-12-11T09:12:38.106Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://guke.ml/categories/</loc>
-        <lastmod>2020-12-11T09:12:19.325Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://guke.ml/link/</loc>
-        <lastmod>2020-12-11T09:11:50.525Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
