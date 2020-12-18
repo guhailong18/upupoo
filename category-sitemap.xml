@@ -9,6 +9,20 @@
 
 
     <url>
+        <loc>https://guke.ml/categories/%25E8%25B5%2584%25E6%25BA%2590/</loc>
+        <lastmod>2020-12-17T23:49:48.851Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://guke.ml/categories/%25E5%25A3%2581%25E7%25BA%25B8/</loc>
+        <lastmod>2020-12-17T23:49:09.004Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://guke.ml/categories/%25E5%258A%25A8%25E6%2580%2581%25E5%25A3%2581%25E7%25BA%25B8/</loc>
         <lastmod>2020-12-17T15:47:04.233Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -32,20 +46,6 @@
     <url>
         <loc>https://guke.ml/categories/uncategorized/</loc>
         <lastmod>2020-12-17T15:46:23.876Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://guke.ml/categories/%25E5%25A3%2581%25E7%25BA%25B8/</loc>
-        <lastmod>2020-12-17T15:46:01.858Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://guke.ml/categories/%25E8%25B5%2584%25E6%25BA%2590/</loc>
-        <lastmod>2020-12-17T15:28:50.898Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
