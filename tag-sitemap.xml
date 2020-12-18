@@ -3,8 +3,15 @@
 
 
     <url>
+        <loc>https://guke.ml/tags/%E6%8F%92%E4%BB%B6/</loc>
+        <lastmod>2020-12-18T01:07:13.035Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://guke.ml/tags/hexo/</loc>
-        <lastmod>2020-12-17T23:50:11.223Z</lastmod>
+        <lastmod>2020-12-18T01:07:13.035Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
